@@ -1,4 +1,4 @@
-# Uprawnienia
+# Uprawnieniaaaaaa
 Uprawnienia pozwalają na nadanie wybranych praw danej roli dla dowolnej definicji. Każde uprawnienie dotyczy tylko jednej wybranej definicji.
 
 ## Lista dostępnych uprawnień:
