@@ -2,3 +2,6 @@ site_name: Dokumentacja
 theme:
   name: material
   language: pl
+  features:
+    - search.highlight
+    - search.suggest
